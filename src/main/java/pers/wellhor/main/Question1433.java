@@ -40,9 +40,9 @@ import java.util.Arrays;
 public class Question1433 {
 
     public static void main(String[] args) {
-//        System.out.println(new Question1433().checkIfCanBreak("abc","xya"));
-//        System.out.println(new Question1433().checkIfCanBreak("abe","acd"));
-//        System.out.println(new Question1433().checkIfCanBreak("leetcodee","interview"));
+        System.out.println(new Question1433().checkIfCanBreak("abc", "xya"));
+        System.out.println(new Question1433().checkIfCanBreak("abe", "acd"));
+        System.out.println(new Question1433().checkIfCanBreak("leetcodee", "interview"));
         System.out.println(new Question1433().checkIfCanBreak("qvgjjsp", "qmsbphx"));
     }
 
